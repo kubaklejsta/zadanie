@@ -1,0 +1,14 @@
+C:\Users\klejsta\Desktop\Projekty\zadanie2\zadanie2\bin\Debug\net7.0\zadanie2.exe
+C:\Users\klejsta\Desktop\Projekty\zadanie2\zadanie2\bin\Debug\net7.0\zadanie2.deps.json
+C:\Users\klejsta\Desktop\Projekty\zadanie2\zadanie2\bin\Debug\net7.0\zadanie2.runtimeconfig.json
+C:\Users\klejsta\Desktop\Projekty\zadanie2\zadanie2\bin\Debug\net7.0\zadanie2.dll
+C:\Users\klejsta\Desktop\Projekty\zadanie2\zadanie2\bin\Debug\net7.0\zadanie2.pdb
+C:\Users\klejsta\Desktop\Projekty\zadanie2\zadanie2\obj\Debug\net7.0\zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klejsta\Desktop\Projekty\zadanie2\zadanie2\obj\Debug\net7.0\zadanie2.AssemblyInfoInputs.cache
+C:\Users\klejsta\Desktop\Projekty\zadanie2\zadanie2\obj\Debug\net7.0\zadanie2.AssemblyInfo.cs
+C:\Users\klejsta\Desktop\Projekty\zadanie2\zadanie2\obj\Debug\net7.0\zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\klejsta\Desktop\Projekty\zadanie2\zadanie2\obj\Debug\net7.0\zadanie2.dll
+C:\Users\klejsta\Desktop\Projekty\zadanie2\zadanie2\obj\Debug\net7.0\refint\zadanie2.dll
+C:\Users\klejsta\Desktop\Projekty\zadanie2\zadanie2\obj\Debug\net7.0\zadanie2.pdb
+C:\Users\klejsta\Desktop\Projekty\zadanie2\zadanie2\obj\Debug\net7.0\zadanie2.genruntimeconfig.cache
+C:\Users\klejsta\Desktop\Projekty\zadanie2\zadanie2\obj\Debug\net7.0\ref\zadanie2.dll
